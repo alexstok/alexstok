@@ -11,6 +11,9 @@
 </div>
 <div>
   <a href="https://www.linkedin.com/in/alex-stok" target="_blank"> <img align = "center" alt = "" height = "55" width = "155" img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank "> </a>
+  
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alex-stok" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alex-stok?trk=profile-badge">Alex Luiz de Oliveira</a></div>
+              
 
   ![Snake animation](https://github.com/alexstok/alexstok/blob/output/github-contribution-grid-snake.svg)
 </div>
