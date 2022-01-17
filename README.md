@@ -2,13 +2,13 @@
 
 ##### Sou Alex estudante de programação que ama técnologia!
 
-- 💼 Atualmente realizando Curso AWS Cloud Practitioner.
+- 💼 Atualmente conclui Bootcamp AWS Cloud Practitioner.
 - ❤️ Gosto Back-end.
 - 👨‍🎓 Venho da área regulação/administrativa, com foco em resoluções analíticas, controle de organização de documentos confidenciais, demonstração e análise de resultados.
-Decidi recomeçar minha trajetória na área de tecnologia após iniciar no Bootcamp de Lógica de Programação, atualmente realizando Curso AWS Cloud Practitioner.
+Decidi recomeçar minha trajetória na área de tecnologia após iniciar no Bootcamp de Lógica de Programação, atualmente conclui o Bootcamp AWS Cloud Practitioner.
 Aberta à novos desafios, afim de aperfeiçoar e desenvolver profissionalmente novas tecnologias.
 - OBJETIVO
-> Atuar na área T.I. | AWS Cloud | Analista Junior | Back-end
+> Atuar na área T.I. | AWS | Python | Data Analyst
 
 ##
 
@@ -60,6 +60,7 @@ Aberta à novos desafios, afim de aperfeiçoar e desenvolver profissionalmente n
      <br />
      <br />
       <img align="center" title="AWS" alt="AWS" height="45" width="55" src="https://simpleicons.org/icons/amazonaws.svg">
+      <img align="center" title="analytics" alt="analytics" height="45" width="55" src="https://simpleicons.org/icons/simpleanalytics.svg">
       <br />
  <br />
  </kbd>
