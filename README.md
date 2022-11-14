@@ -2,10 +2,10 @@
 
 ##### Sou Alex estudante de programação que ama técnologia!
 
-- 💼 Atualmente conclui Bootcamp AWS Cloud Practitioner.
+- 💼 Conclui Bootcamp AWS Cloud Practitioner com a Campinho Digital.
 - ❤️ Gosto Back-end.
 - 👨‍🎓 Venho da área regulação/administrativa, com foco em resoluções analíticas, controle de organização de documentos confidenciais, demonstração e análise de resultados.
-Decidi recomeçar minha trajetória na área de tecnologia após iniciar no Bootcamp de Lógica de Programação, atualmente conclui o Bootcamp AWS Cloud Practitioner.
+Decidi recomeçar minha trajetória na área de tecnologia após iniciar no Bootcamp de Lógica de Programação, conclui o Bootcamp AWS Cloud Practitioner.
 Aberta à novos desafios, afim de aperfeiçoar e desenvolver profissionalmente novas tecnologias.
 - OBJETIVO
 > Atuar na área T.I. | AWS | Python | Data Analyst
@@ -30,40 +30,19 @@ Aberta à novos desafios, afim de aperfeiçoar e desenvolver profissionalmente n
       <kbd>Conhecimento básico em:</kbd>
       <br />
       <br />
-      <img align="center"  title="Javascript" alt="Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center"  title="TypeScript" alt="Ts" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" title="Python" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+    <img align="center" title="AWS" alt="AWS" height="45" width="55" src="https://simpleicons.org/icons/amazonaws.svg">
+      <img align="center" title="analytics" alt="analytics" height="45" width="55" src="https://simpleicons.org/icons/simpleanalytics.svg">
    <br />
 <br /> 
 </kbd>
 <kbd align="center">
-   <kbd>Conhecimento intermediário em:</kbd>
-      <br />
-      <br />
-      <img align="center" title="Python" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-      <img align="center" title="Django" alt="Django" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-<br />
-<br /> 
-</kbd>
-<kbd align="center">
+   
 <kbd>Estudando:</kbd>
  <br />
- <br />
-      <img align="center" title="NodeJS" alt="NodeJS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-      <img align="center" title="MySQL" alt="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-      <img align="center" title="NextJs" alt="NextJs" height="45" width="55" src="https://simpleicons.org/icons/nextdotjs.svg">
-      <img align="center" title="Strapi" alt="Strapi" height="45" width="55" src="https://simpleicons.org/icons/strapi.svg">
- <br />
- <br />
-</kbd> 
-<kbd align="center">
-<kbd>Interesse em:</kbd> 
-     <br />
-     <br />
-      <img align="center" title="AWS" alt="AWS" height="45" width="55" src="https://simpleicons.org/icons/amazonaws.svg">
-      <img align="center" title="analytics" alt="analytics" height="45" width="55" src="https://simpleicons.org/icons/simpleanalytics.svg">
-      <br />
- <br />
- </kbd>
+       <img align="center" title="C#" alt="C#" height="45" width="55" src="https://simpleicons.org/icons/csharp.svg">
+  <br />
+
   </div>
  
  ##
