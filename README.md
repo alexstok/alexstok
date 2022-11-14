@@ -3,12 +3,11 @@
 ##### Sou Alex estudante de programação que ama técnologia!
 
 - 💼 Conclui Bootcamp AWS Cloud Practitioner com a Campinho Digital.
-- ❤️ Gosto Back-end.
-- 👨‍🎓 Venho da área regulação/administrativa, com foco em resoluções analíticas, controle de organização de documentos confidenciais, demonstração e análise de resultados.
-Decidi recomeçar minha trajetória na área de tecnologia após iniciar no Bootcamp de Lógica de Programação, conclui o Bootcamp AWS Cloud Practitioner.
+- ❤️ Gosto Back-end e Dados.
+- 👨‍🎓 Venho da área regulação/administrativa(backoffice) com foco em resoluções analíticas, controle de organização de documentos confidenciais, demonstração e análise de resultados.
+Decidi recomeçar minha trajetória na área de tecnologia após iniciar no Bootcamp de Lógica de Programação, conclui o Bootcamp AWS Cloud Practitioner juto com a Campinho Digital.
 Aberta à novos desafios, afim de aperfeiçoar e desenvolver profissionalmente novas tecnologias.
-- OBJETIVO
-> Atuar na área T.I. | AWS | Python | Data Analyst
+Atualmente estou na Empresa Wiz Soluções - Técnico de Regulação Agrícola
 
 ##
 
@@ -51,8 +50,7 @@ Aberta à novos desafios, afim de aperfeiçoar e desenvolver profissionalmente n
   
   <div>
     <a href="https://www.linkedin.com/in/alex-stok/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href = "mailto:alex.stok@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+       
  </div>
   
   ![Snake animation](https://github.com/alexstok/alexstok/blob/output/github-contribution-grid-snake.svg)
